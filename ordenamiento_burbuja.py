@@ -39,3 +39,5 @@ fin = time.perf_counter()
 print(f"Tiempo de ordenamiento (burbuja): {fin - ini:.4f} segundos")
 print("\nLista ordenada (primeros 20 elementos):")
 print(datos_ordenados[:20])
+input("Presione cualquier tecla para continuar...")
+
